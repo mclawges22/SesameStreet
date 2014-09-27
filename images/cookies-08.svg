@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" xml:space="preserve">
+<g>
+	<defs>
+		<polygon id="SVGID_13_" points="334.398,405.119 65.371,405.592 93.789,-6 222.882,4.943 334.893,321.081 		"/>
+	</defs>
+	<clipPath id="SVGID_1_">
+		<use xlink:href="#SVGID_13_"  overflow="visible"/>
+	</clipPath>
+	<g transform="matrix(1 0 0 1 0 -7.629395e-06)" clip-path="url(#SVGID_1_)">
+		
+			<image overflow="visible" width="2603" height="1093" xlink:href="../../../../Downloads/charactersA.png"  transform="matrix(0.4736 0 0 0.4736 -724.6577 -120.147)">
+		</image>
+	</g>
+</g>
+<rect x="40" y="12.001" transform="matrix(0.9848 -0.1736 0.1736 0.9848 -5.5242 11.8565)" fill="none" width="50" height="50.999"/>
+<text transform="matrix(0.9848 -0.1736 0.1736 0.9848 42.9854 56.6133)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="54">4</text>
+<rect x="76" y="91.999" transform="matrix(0.9925 0.1219 -0.1219 0.9925 14.4029 -11.4745)" fill="none" width="50" height="40"/>
+<text transform="matrix(0.9925 0.1219 -0.1219 0.9925 74.6025 121.8555)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="44">6</text>
+<rect x="271" y="66" fill="none" width="50" height="40"/>
+<text transform="matrix(1 0 0 1 271 99)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="44">7</text>
+<rect x="26" y="170" fill="none" width="50" height="40"/>
+<text transform="matrix(1 0 0 1 26 206)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="48">1</text>
+<rect x="313.501" y="151" transform="matrix(0.9903 -0.1392 0.1392 0.9903 -20.5678 47.8701)" fill="none" width="37" height="40"/>
+<text transform="matrix(0.9903 -0.1392 0.1392 0.9903 315.9072 189.4189)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="48">8</text>
+<rect x="345" y="27" transform="matrix(0.9781 0.2079 -0.2079 0.9781 17.6383 -73.82)" fill="none" width="30" height="40"/>
+<text transform="matrix(0.9781 0.2079 -0.2079 0.9781 342.001 59.5322)" fill="#ED1C24" font-family="'FiraSans-Regular'" font-size="48">3</text>
+<g>
+	<defs>
+		<rect id="SVGID_15_" x="-1342.312" y="484.825" width="230.027" height="377.175"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_15_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		
+			<image overflow="visible" width="2603" height="1093" xlink:href="../../../../Downloads/charactersA.png"  transform="matrix(1 0 0 1 -1360 -218)">
+		</image>
+	</g>
+</g>
+</svg>
