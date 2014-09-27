@@ -225,6 +225,54 @@ strong {
 	right:20px;
 }
 
+.final {
+	width:80%;
+	margin:60px 10%;
+	color:#000;
+	z-index:100;
+	font-weight:500;
+}
+.final h2 {
+	font-size:48px;
+	line-height:2em;
+	text-align: center;
+}
+
+.final h4 {
+	font-size:30px;
+	line-height:2em;
+	text-align: center;
+	margin:0;
+    padding:0;
+}
+.main {
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index: 1;
+    margin:0;
+    padding:0;
+}
+
+.a .u, .b .y, .c .w, .e .x, .f .z {
+	color: #ed1c24
+}
+.a .y, .b .x, .c .z, .e .u, .f .v {
+	color:#ffde08
+}
+.a .w, .b .v, .c .u, .e .w, .f .y {
+	color: #007fbf
+}
+.a .x, .b .z, .c .y, .e .v, .f .u {
+	color: #6800ba
+}
+.a .v, .b .u, .c .x, .e .z, .f .w {
+	color: #ff921b
+}
+.a .z, .b .w, .c .v, .e .y, .f .x {
+	color: #92ce68
+}
+
 /* making YouTube video dimensions responsive */
 
 .embed-container { 
