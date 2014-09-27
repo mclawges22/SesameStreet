@@ -96,7 +96,7 @@ h1 {
 	line-height:1.4em;
 	font-weight: 300;
 }
-.date strong {
+strong {
 	font-weight:600;
 	color:#000;
 	font-size:36px;
@@ -176,7 +176,7 @@ h1 {
 }
 
 .zoe {
-	display: hidden;
+	display: none;
 }
 
 .henson-death {
@@ -195,6 +195,36 @@ h1 {
 }
 .henson-death strong {
 	font-weight:400;
+}
+
+.be {
+	width:30%;
+	position:fixed;
+}
+.ernie {
+	color:#000000;
+	right:0;
+	bottom:30px;
+	width:50%;
+}
+
+.ernie img {
+	float:left;
+	width:28;
+	margin:- ;
+}
+.elmo {
+	color:#000;
+	width:50%;
+	top:50px;
+	margin-left:8%;
+
+}
+
+.elmo img {
+	position:fixed;
+	bottom:30px;
+	right:20px;
 }
 
 /* making YouTube video dimensions responsive */
