@@ -270,8 +270,11 @@ strong {
 	font-size:12px;
 	line-height: 1.3em;
 	width:38%;
-	margin:40px 3% 0 3%;
+	margin:10px 3% 0 3%;
 	float:left;
+}
+.final .first {
+	margin-top:40px;
 }
 a {
 	text-decoration: none;
